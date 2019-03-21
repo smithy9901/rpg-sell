@@ -1,0 +1,13 @@
+name: RpgSell
+depends: [Vault]
+author: ArZer0
+main: ru.rpgsell.Main
+softdepend: [BagofGold, CMI]
+version: 1.0.23
+api-version: 1.13
+description: Продай вещи
+commands:
+   rpgsell:
+      description: главная команда плагина
+      usage: /<command>
+      permission: rpgsell.admin

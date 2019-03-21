@@ -1,0 +1,8 @@
+gui-name: "&cМагазин"
+gui-rows: 5
+gui-sellitem:
+  material: "EMERALD"
+  displayname: "&cНажми для продажи (&a%total%&c)"
+gui-item-enumeration-format: "%amount%x &c%material%&r = &a %price%"
+message-sold: "&aУспешно продано все за &c%total%&a!" 
+command: "sell"
